@@ -1,5 +1,5 @@
-cloud-to-butt
-=============
+docker-to-ducy
+==============
 
 Chrome extension that replaces occurrences of 'Docker' with 'Ducy'
 
