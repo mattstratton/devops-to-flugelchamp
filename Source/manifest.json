@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Docker to Ducy",
+	"name": "DevOps to Flugelchamp",
 	"version": "1.0",
-	"description": "Replaces the text 'Docker' with 'Ducy'.",
+	"description": "Replaces the text 'DevOps' with 'Flugelchamp'.",
 	"content_scripts":
 	[
 		{
