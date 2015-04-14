@@ -3,7 +3,7 @@ devops-to-flugelchamp
 
 Chrome extension that replaces occurrences of 'DevOps' with 'Flugelchamp'
 
-[Direct download of crx file](https://github.com/paulczar/docker-to-ducy/blob/master/DockerToDucy.crx?raw=true)
+[Direct download of crx file](https://github.com/mattstratton/devops-to-flugelchamp/blob/master/DevOpsToFlugelchamp.crx?raw=true)
 
 Installation
 ------------
