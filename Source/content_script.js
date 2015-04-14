@@ -31,8 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bDocker\b/g, "Ducy");
-	v = v.replace(/\bdocker\b/g, "ducy");
+	v = v.replace(/\bDevOps\b/g, "Flugelchamp");
+	v = v.replace(/\bdevop\b/g, "flugelchamp");
 
 	textNode.nodeValue = v;
 }
