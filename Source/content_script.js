@@ -32,7 +32,7 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bDevOps\b/g, "Flugelchamp");
-	v = v.replace(/\bdevop\b/g, "flugelchamp");
+	v = v.replace(/\bdevops\b/g, "flugelchamp");
 
 	textNode.nodeValue = v;
 }
